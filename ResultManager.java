@@ -1,3 +1,5 @@
+// Handles file operations and student record management
+
 import java.io.*;
 import java.util.Scanner;
 
@@ -90,3 +92,4 @@ for (int i = 0; i < 5; i++) {
         }
     }
 }
+
