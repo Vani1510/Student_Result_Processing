@@ -1,3 +1,5 @@
+// Menu-driven Student Result Processing System
+
 import java.util.Scanner;
 
 public class MainApp {
@@ -45,3 +47,4 @@ public class MainApp {
         sc.close();
     }
 }
+
